@@ -1,204 +1,154 @@
-# 👋 Hi, I'm Anjali Prasad
+<div align="center">
 
-### ☁️ Cloud & DevOps Engineer in the Making | Backend Developer | AWS Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Anjali%20Kumari%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-I’m a **Computer Science & Engineering student** focused on building reliable backend systems, automating infrastructure, and deploying applications to the cloud.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=560&lines=Automating+Infrastructure+with+Terraform+%26+Ansible;Building+CI%2FCD+Pipelines+with+Jenkins+%26+GitHub+Actions;Architecting+Scalable+Systems+on+AWS" />
 
-I enjoy turning **real-world applications into scalable, containerized and cloud-ready systems** — from writing backend APIs to building infrastructure and CI/CD pipelines.
+<br/>
 
-Currently exploring **Cloud Engineering, DevOps, AWS, Infrastructure as Code, and Backend Development**.
+<a href="https://www.linkedin.com/in/anjali-prasad-395588333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AnjaliKumariPrasad"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Based_in-India-FF9933?style=flat-square" />
 
----
+</div>
 
-## 🚀 What I Work With
+<br/>
 
-### ☁️ Cloud & Infrastructure
+## 🧭 About Me
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 🐳 DevOps & Automation
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ What I Build
-
-```text
-Application
-    ↓
-Docker
-    ↓
-CI/CD Pipeline
-    ↓
-Infrastructure as Code
-    ↓
-AWS
-    ↓
-Scalable & Automated Deployment
+```yaml
+role: Cloud & DevOps Engineer
+focus: Infrastructure as Code, CI/CD Automation, AWS Cloud Architecture
+currently_building: Scalable, self-healing cloud infrastructure
+believes_in: "If you deploy it twice by hand, automate it."
 ```
 
-I’m particularly interested in:
+<br/>
 
-* ☁️ Cloud infrastructure & architecture
-* 🐳 Containerization with Docker
-* 🔄 CI/CD automation
-* 🏗️ Infrastructure as Code with Terraform
-* 🔐 Cloud security fundamentals
-* 🐍 Backend APIs with Python & FastAPI
-* 🐧 Linux & system administration
-* 📊 Application reliability and troubleshooting
+## 🧰 Tech Stack
 
----
+<table>
+<tr>
+<td valign="top" width="33%">
 
-## 🔥 Featured Work
+**Cloud & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux" />
 
-### ☁️ Cloud Migration & Modernization
+</td>
+<td valign="top" width="33%">
 
-A hands-on project focused on taking a legacy application and transforming it into a more modern, containerized and cloud-ready architecture.
+**CI/CD & Automation**
+<br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,bash" />
 
-**Worked with:**
+</td>
+<td valign="top" width="33%">
 
-`Docker` • `AWS` • `Terraform` • `Linux` • `Git` • `CI/CD`
+**Core & Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,git,github" />
 
-🔗 **Explore my repositories below to see the implementation.**
+</td>
+</tr>
+</table>
 
----
+<details>
+<summary><b>🔍 AWS services I work with</b></summary>
+<br/>
 
-### 🏗️ Infrastructure as Code
+`EC2` `IAM` `Lambda` `S3` `RDS` `ECR` `CloudWatch` `CloudFront` `VPC`
 
-Building AWS infrastructure using Terraform with practical networking and deployment concepts such as:
+</details>
 
-* VPC
-* Public & Private Subnets
-* Internet Gateway
-* Route Tables
-* Security Groups
-* Load Balancing
-* Auto Scaling
-* IAM
-* Database infrastructure
+<br/>
 
----
+## 🚀 Featured Projects
 
-### ⚡ Backend Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Building backend services and REST APIs using **Python + FastAPI**, with a focus on:
+**[☁️ Legacy E-Commerce Cloud Modernization](https://github.com/AnjaliKumariPrasad/legacy-ecommerce-cloud-modernization)**
+<br/>
+Re-architected a legacy e-commerce app into scalable, cloud-native AWS infrastructure.
+<br/>
+`AWS` `Terraform` `Migration`
 
-`API Design` • `Validation` • `CRUD` • `Databases` • `Authentication` • `Docker`
+</td>
+<td width="50%" valign="top">
 
----
+**[⚙️ Cloud-Native CI/CD Automation Platform](https://github.com/AnjaliKumariPrasad/CloudOps-Automation-Platform)**
+<br/>
+End-to-end CI/CD pipeline automating build, test, and deploy with Jenkins & GitHub Actions.
+<br/>
+`Jenkins` `GitHub Actions` `Docker`
 
-## 📈 My Current Focus
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-```text
-☁️ AWS
-   ├── EC2
-   ├── VPC
-   ├── IAM
-   ├── S3
-   ├── RDS
-   └── ECS
+**[🏗️ AWS 3-Tier Architecture using Terraform](https://github.com/AnjaliKumariPrasad/AWS-3-Tier-Architecture-using-Terraform)**
+<br/>
+Highly available 3-tier (web/app/DB) architecture provisioned entirely as code.
+<br/>
+`Terraform` `AWS` `HA Design`
 
-🐳 DevOps
-   ├── Docker
-   ├── CI/CD
-   ├── GitHub Actions
-   └── Jenkins
+</td>
+<td width="50%" valign="top">
 
-🏗️ Infrastructure
-   └── Terraform
+**[🖼️ Image Processing Serverless Project](https://github.com/AnjaliKumariPrasad/Image-Processing-Serverless-Project)**
+<br/>
+Serverless pipeline that transforms and stores images on demand — zero servers.
+<br/>
+`Lambda` `S3` `Serverless`
 
-⚙️ Backend
-   ├── Python
-   ├── FastAPI
-   ├── PostgreSQL
-   └── REST APIs
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🐧 Systems
-   ├── Linux
-   ├── Networking
-   └── Bash
-```
+**[🐍 Scalable Django Deployment on AWS](https://github.com/AnjaliKumariPrasad/Scalable-and-Highly-Available-Django-Deployment-using-terraform)**
+<br/>
+Auto-scaling, load-balanced Django deployment, fully provisioned via Terraform.
+<br/>
+`Django` `Terraform` `Auto Scaling`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🧠 Currently Learning
+**[🔗 AWS VPC Peering using Terraform](https://github.com/AnjaliKumariPrasad/VPC-Peering-mini-task-)**
+<br/>
+Secure cross-VPC communication configured automatically with Terraform.
+<br/>
+`VPC` `Terraform` `Networking`
 
-* Advanced AWS architecture
-* Terraform
-* Docker & container orchestration
-* CI/CD pipelines
-* Linux & networking
-* Python automation
-* Backend system design
-* Cloud security
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliKumariPrasad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliKumariPrasad&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=AnjaliKumariPrasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaliKumariPrasad&theme=tokyonight&hide_border=true" height="165" />
 
-## 🔥 Contribution Streak
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliKumariPrasad&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnjaliKumariPrasad&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
----
+<br/>
 
-## 🌐 Let's Connect
+<div align="center">
 
-<p align="center">
+### 📫 Let's build something together
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/anjali-prasad-395588333/"><img src="https://img.shields.io/badge/-Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://github.com/AnjaliKumariPrasad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%" />
 
-</p>
-
----
-
-## 💡 My Engineering Philosophy
-
-> **Learn by building. Break things. Debug them. Understand why they broke. Build them better.**
-
-I’m continuously working toward becoming an engineer who can **build, automate, deploy and troubleshoot real-world systems.**
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Building today. Automating tomorrow. ☁️**
-
-</p>
+</div>
