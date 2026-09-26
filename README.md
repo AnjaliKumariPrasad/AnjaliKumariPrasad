@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Anjali Prasad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Anjali%20Kumari%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-### Cloud & DevOps Engineer
-
-**Automating Infrastructure with Terraform & Ansible** · **Building CI/CD Pipelines with Jenkins & GitHub Actions** · **Architecting Scalable Systems on AWS**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=560&lines=Automating+Infrastructure+with+Terraform+%26+Ansible;Building+CI%2FCD+Pipelines+with+Jenkins+%26+GitHub+Actions;Architecting+Scalable+Systems+on+AWS" />
 
 <br/>
 
@@ -132,6 +130,20 @@ Secure cross-VPC communication configured automatically with Terraform.
 
 <br/>
 
+## 🎮 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnjaliKumariPrasad/AnjaliKumariPrasad/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnjaliKumariPrasad/AnjaliKumariPrasad/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake game eating my GitHub contribution graph" src="https://raw.githubusercontent.com/AnjaliKumariPrasad/AnjaliKumariPrasad/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
 ## 🌌 3D Contribution Graph
 
 <div align="center">
@@ -161,5 +173,9 @@ Secure cross-VPC communication configured automatically with Terraform.
 
 <a href="https://www.linkedin.com/in/anjali-prasad-395588333/"><img src="https://img.shields.io/badge/-Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%" />
+
 </div>
+
+
 
