@@ -12,12 +12,14 @@
 </div>
 
 <br/>
+## 🧭 About Me
 
-> *"If you deploy it twice by hand, automate it."*
-
-## 🧭 What I Do
-
-I build and automate cloud infrastructure that doesn't fall over — scalable AWS architectures, CI/CD pipelines that just work, and infrastructure-as-code that means nobody has to remember what they clicked last time. I'm continually leveling up in Terraform, Ansible, and AWS to design systems that scale and recover on their own.
+```yaml
+role: Cloud & DevOps Engineer
+focus: Infrastructure as Code, CI/CD Automation, AWS Cloud Architecture
+currently_building: Scalable, self-healing cloud infrastructure
+believes_in: "If you deploy it twice by hand, automate it."
+```
 
 ## 🧰 Tech Stack
 
@@ -122,10 +124,7 @@ Secure cross-VPC communication configured automatically with Terraform.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnjaliKumariPrasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-<img src="https://streak-stats.demolab.com/?user=AnjaliKumariPrasad&theme=tokyonight&hide_border=true" height="160" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnjaliKumariPrasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" /> <img src="https://streak-stats.demolab.com/?user=AnjaliKumariPrasad&theme=tokyonight&hide_border=true" height="160" /> </div>
 
 ## 📫 Let's Connect
 
