@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Anjali%20Kumari%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=560&lines=Automating+Infrastructure+with+Terraform+%26+Ansible;Building+CI%2FCD+Pipelines+with+Jenkins+%26+GitHub+Actions;Architecting+Scalable+Systems+on+AWS" />
-
-<br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Anjali%20Kumari%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=560&lines=Automating+Infrastructure+with+Terraform+%26+Ansible;Building+CI%2FCD+Pipelines+with+Jenkins+%26+GitHub+Actions;Architecting+Scalable+Systems+on+AWS" width="90%" style="max-width:560px" /> <br/>
 
 <a href="https://www.linkedin.com/in/anjali-prasad-395588333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AnjaliKumariPrasad"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
