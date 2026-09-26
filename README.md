@@ -130,6 +130,30 @@ Secure cross-VPC communication configured automatically with Terraform.
 
 <br/>
 
+## 🎮 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnjaliKumariPrasad/AnjaliKumariPrasad/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnjaliKumariPrasad/AnjaliKumariPrasad/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake game eating my GitHub contribution graph" src="https://raw.githubusercontent.com/AnjaliKumariPrasad/AnjaliKumariPrasad/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+## 🌌 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnjaliKumariPrasad/AnjaliKumariPrasad/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -152,3 +176,4 @@ Secure cross-VPC communication configured automatically with Terraform.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%" />
 
 </div>
+
