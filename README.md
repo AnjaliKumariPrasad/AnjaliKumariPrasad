@@ -124,7 +124,7 @@ Secure cross-VPC communication configured automatically with Terraform.
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnjaliKumariPrasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" /> <img src="https://streak-stats.demolab.com/?user=AnjaliKumariPrasad&theme=tokyonight&hide_border=true" height="160" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnjaliKumariPrasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" /> <img src="https://streak-stats.demolab.com/?user=AnjaliKumariPrasad&theme=tokyonight&hide_border=true" height="160" /> </div>
 
 ## 📫 Let's Connect
 
