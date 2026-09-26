@@ -1,160 +1,60 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Anjali%20Kumari%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=560&lines=Automating+Infrastructure+with+Terraform+%26+Ansible;Building+CI%2FCD+Pipelines+with+Jenkins+%26+GitHub+Actions;Architecting+Scalable+Systems+on+AWS" width="90%" style="max-width:560px" /> <br/>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/anjali-prasad-395588333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/AnjaliKumariPrasad"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Based_in-India-FF9933?style=flat-square" />
+# 👋 Hey, I'm Anjali Prasad
+
+### Cloud & DevOps Engineer — turning manual deploys into automated pipelines
+
+<a href="https://www.linkedin.com/in/anjali-prasad-395588333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AnjaliKumariPrasad"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+> *"If you deploy it twice by hand, automate it."*
 
-```yaml
-role: Cloud & DevOps Engineer
-focus: Infrastructure as Code, CI/CD Automation, AWS Cloud Architecture
-currently_building: Scalable, self-healing cloud infrastructure
-believes_in: "If you deploy it twice by hand, automate it."
-```
+## 🧭 What I Do
 
-<br/>
+I build and automate cloud infrastructure that doesn't fall over — scalable AWS architectures, CI/CD pipelines that just work, and infrastructure-as-code that means nobody has to remember what they clicked last time. I'm continually leveling up in Terraform, Ansible, and AWS to design systems that scale and recover on their own.
 
 ## 🧰 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Cloud & Infra**
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,python,bash" />
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux" />
-
-</td>
-<td valign="top" width="33%">
-
-**CI/CD & Automation**
-<br/>
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,bash" />
-
-</td>
-<td valign="top" width="33%">
-
-**Core & Version Control**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,git,github" />
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible,docker,aws" />
+</p>
 
 <details>
-<summary><b>🔍 AWS services I work with</b></summary>
+<summary><b>☁️ AWS services I work with</b></summary>
 <br/>
 
-`EC2` `IAM` `Lambda` `S3` `RDS` `ECR` `CloudWatch` `CloudFront` `VPC`
+`EC2` `IAM` `Lambda` `S3` `RDS` `ECR` `CloudWatch` `CloudFront`
 
 </details>
 
-<br/>
-
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | What it does | Stack |
+|---|---|---|
+| **[Legacy E-Commerce Cloud Modernization](https://github.com/AnjaliKumariPrasad/legacy-ecommerce-cloud-modernization)** | Re-architected a legacy e-commerce app into cloud-native AWS infrastructure | `AWS` `Terraform` `Jenkins`  `Docker` `Lambda` `S3` |
+| **[Cloud-Native CI/CD Automation Platform](https://github.com/AnjaliKumariPrasad/CloudOps-Automation-Platform)** | End-to-end CI/CD pipeline automating build, test, and deploy | `Jenkins` `GitHub Actions` `Docker` `AWS`|
+| **[AWS 3-Tier Architecture using Terraform](https://github.com/AnjaliKumariPrasad/AWS-3-Tier-Architecture-using-Terraform)** | Highly available 3-tier architecture, fully provisioned as code | `Terraform` `AWS` |
+| **[Image Processing Serverless Project](https://github.com/AnjaliKumariPrasad/Image-Processing-Serverless-Project)** | Serverless pipeline that transforms images on demand — zero servers | `Lambda` `S3` |
+| **[Scalable Django Deployment on AWS](https://github.com/AnjaliKumariPrasad/Scalable-and-Highly-Available-Django-Deployment-using-terraform)** | Auto-scaling, load-balanced Django deployment | `Django` `Terraform` `AWS` `Docker` |
+| **[AWS VPC Peering using Terraform](https://github.com/AnjaliKumariPrasad/VPC-Peering-mini-task-)** | Secure cross-VPC communication, configured automatically | `VPC` `Terraform` |
 
-**[☁️ Legacy E-Commerce Cloud Modernization](https://github.com/AnjaliKumariPrasad/legacy-ecommerce-cloud-modernization)**
-<br/>
-Re-architected a legacy e-commerce app into scalable, cloud-native AWS infrastructure.
-<br/>
-`AWS` `Terraform` `Migration`
-
-</td>
-<td width="50%" valign="top">
-
-**[⚙️ Cloud-Native CI/CD Automation Platform](https://github.com/AnjaliKumariPrasad/CloudOps-Automation-Platform)**
-<br/>
-End-to-end CI/CD pipeline automating build, test, and deploy with Jenkins & GitHub Actions.
-<br/>
-`Jenkins` `GitHub Actions` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🏗️ AWS 3-Tier Architecture using Terraform](https://github.com/AnjaliKumariPrasad/AWS-3-Tier-Architecture-using-Terraform)**
-<br/>
-Highly available 3-tier (web/app/DB) architecture provisioned entirely as code.
-<br/>
-`Terraform` `AWS` `HA Design`
-
-</td>
-<td width="50%" valign="top">
-
-**[🖼️ Image Processing Serverless Project](https://github.com/AnjaliKumariPrasad/Image-Processing-Serverless-Project)**
-<br/>
-Serverless pipeline that transforms and stores images on demand — zero servers.
-<br/>
-`Lambda` `S3` `Serverless`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🐍 Scalable Django Deployment on AWS](https://github.com/AnjaliKumariPrasad/Scalable-and-Highly-Available-Django-Deployment-using-terraform)**
-<br/>
-Auto-scaling, load-balanced Django deployment, fully provisioned via Terraform.
-<br/>
-`Django` `Terraform` `Auto Scaling`
-
-</td>
-<td width="50%" valign="top">
-
-**[🔗 AWS VPC Peering using Terraform](https://github.com/AnjaliKumariPrasad/VPC-Peering-mini-task-)**
-<br/>
-Secure cross-VPC communication configured automatically with Terraform.
-<br/>
-`VPC` `Terraform` `Networking`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🌌 3D Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/AnjaliKumariPrasad/AnjaliKumariPrasad/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=AnjaliKumariPrasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://streak-stats.demolab.com/?user=AnjaliKumariPrasad&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
-<br/>
+## 📫 Let's Connect
 
-## 📊 GitHub Analytics
+Open to cloud engineering and DevOps roles where automation and infrastructure design are at the core of the work. Reach out — happy to talk cloud, DevOps, or anything I've built above.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnjaliKumariPrasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
-<img src="https://streak-stats.demolab.com/?user=AnjaliKumariPrasad&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliKumariPrasad&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's build something together
-
-<a href="https://www.linkedin.com/in/anjali-prasad-395588333/"><img src="https://img.shields.io/badge/-Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%" />
-
-</div>
+<a href="https://www.linkedin.com/in/anjali-prasad-395588333/"><img src="https://img.shields.io/badge/-Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
