@@ -16,7 +16,7 @@
 
 ```yaml
 role: Cloud & DevOps Engineer
-focus: Infrastructure as Code, CI/CD Automation, AWS Cloud Architecture
+focus: Infrastructure as Code, CI/CD Automation, AWS Cloud Architecture, Troubleshooting
 currently_building: Scalable, self-healing cloud infrastructure
 believes_in: "If you deploy it twice by hand, automate it."
 ```
