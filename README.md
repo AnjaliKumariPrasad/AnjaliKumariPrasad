@@ -67,7 +67,7 @@ believes_in: "If you deploy it twice by hand, automate it."
 <br/>
 Re-architected a legacy e-commerce app into scalable, cloud-native AWS infrastructure.
 <br/>
-`AWS` `Terraform` `Migration`
+`AWS(VPV EC2 IAM ECR RDS S3 Cloudwatch SNS)` `Terraform` `Ansible` `Docker` `Jenkins` `Linux`
 
 </td>
 <td width="50%" valign="top">
@@ -76,7 +76,8 @@ Re-architected a legacy e-commerce app into scalable, cloud-native AWS infrastru
 <br/>
 End-to-end CI/CD pipeline automating build, test, and deploy with Jenkins & GitHub Actions.
 <br/>
-`Jenkins` `GitHub Actions` `Docker`
+`Jenkins` `GitHub Actions` `Docker` `SonarQube` `OWASP Dependency Check` `Trivy` 
+`Docker Hub` `Kubernetes` `Prometheus` `Grafana` `Gmail`
 
 </td>
 </tr>
@@ -87,7 +88,7 @@ End-to-end CI/CD pipeline automating build, test, and deploy with Jenkins & GitH
 <br/>
 Highly available 3-tier (web/app/DB) architecture provisioned entirely as code.
 <br/>
-`Terraform` `AWS` `HA Design`
+`Terraform` `Github Action` `AWS` `VPC` `EC2` `Auto Scaling Groups` `Load Balancer` `RDS` `ECR` `IAM` `Secrets Manager` `CloudWatch` `SNS` `CloudTrail` `VPC Flow Logs`
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +97,7 @@ Highly available 3-tier (web/app/DB) architecture provisioned entirely as code.
 <br/>
 Serverless pipeline that transforms and stores images on demand — zero servers.
 <br/>
-`Lambda` `S3` `Serverless`
+`Lambda` `S3` `Terraform` `Serverless` `Python` `Shell Scripting`
 
 </td>
 </tr>
