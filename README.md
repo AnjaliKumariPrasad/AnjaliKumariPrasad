@@ -97,7 +97,7 @@ Highly available 3-tier (web/app/DB) architecture provisioned entirely as code.
 <br/>
 Serverless pipeline that transforms and stores images on demand — zero servers.
 <br/>
-`Lambda` `S3` `Terraform` `Serverless` `Python` `Shell Scripting`
+`Lambda` `S3` `Terraform` `Serverless` `Python` `Shell Scripting` `Docher`
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ Serverless pipeline that transforms and stores images on demand — zero servers
 <br/>
 Auto-scaling, load-balanced Django deployment, fully provisioned via Terraform.
 <br/>
-`Django` `Terraform` `Auto Scaling`
+`Django` `Terraform` `Auto Scaling` `Internet Gateway` `NAT Gateway` `Route Tables` `Security Groups` `ALB` `Target Groups with Health Checks` `ASG`
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +117,7 @@ Auto-scaling, load-balanced Django deployment, fully provisioned via Terraform.
 <br/>
 Secure cross-VPC communication configured automatically with Terraform.
 <br/>
-`VPC` `Terraform` `Networking`
+`VPC` `Terraform` `Networking` 
 
 </td>
 </tr>
