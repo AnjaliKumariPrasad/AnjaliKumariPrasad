@@ -111,15 +111,6 @@ Auto-scaling, load-balanced Django deployment, fully provisioned via Terraform.
 `Django` `Terraform` `Auto Scaling` `Internet Gateway` `NAT Gateway` `Route Tables` `Security Groups` `ALB` `Target Groups with Health Checks` `ASG`
 
 </td>
-<td width="50%" valign="top">
-
-**[🔗 AWS VPC Peering using Terraform](https://github.com/AnjaliKumariPrasad/VPC-Peering-mini-task-)**
-<br/>
-Secure cross-VPC communication configured automatically with Terraform.
-<br/>
-`VPC` `Terraform` `Networking` 
-
-</td>
 </tr>
 </table>
 
