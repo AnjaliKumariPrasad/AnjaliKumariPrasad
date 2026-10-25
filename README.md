@@ -29,7 +29,7 @@ believes_in: "If you deploy it twice by hand, automate it."
 
 **Cloud & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux" />
+<img src="https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes" />
 
 </td>
 <td valign="top" width="33%">
