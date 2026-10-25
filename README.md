@@ -43,7 +43,7 @@ believes_in: "If you deploy it twice by hand, automate it."
 
 **Core & Version Control**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,git,github" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github" />
 
 </td>
 </tr>
