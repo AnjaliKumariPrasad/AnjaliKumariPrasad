@@ -53,7 +53,7 @@ believes_in: "If you deploy it twice by hand, automate it."
 <summary><b>☁️ AWS services I work with</b></summary>
 <br/>
 
-`EC2` `IAM` `Lambda` `S3` `RDS` `ECR` `CloudWatch` `CloudFront`
+`EC2` `IAM` `Lambda` `S3` `RDS` `ECS` `ECR` `EBS` `Route 53` `WAF` `ALB` `ASG` `CloudFront` `CloudWatch` `SNS` `SQS` `EKS`
 
 </details>
 
